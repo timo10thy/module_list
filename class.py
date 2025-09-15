@@ -1,5 +1,5 @@
-from my_array import List
-fruits = List()
+from my_array import Lists
+fruits = Lists()
 fruits.pop
 print(fruits.container)
 fruits.append("orange")

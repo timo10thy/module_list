@@ -1,4 +1,4 @@
-class List:
+class Lists:
     def __init__(self):
         self.container = []
 
